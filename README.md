@@ -1,4 +1,2 @@
 # Dadda-multiplier
-A 16*16 dadda multiplier is designed using verilog. A 32 bit Brent-Kung adder is used for final addition.Design files along with the test bench is provided in the 
-repo. Eight set of random inputs are given in the test bench. A golden reference is generated and the actual result is compared with the golden result for
-the verification of the design. Flag of zero indicates the correctness of the design. Waveform is shown in waveform.jpg
+Using verilog, a 16*16 dadda multiplier is created. For final addition, a 32 bit Brent-Kung adder is utilised. The repository includes the test bench and design files. On the test bench, eight sets of random inputs are provided. For the purpose of verifying the design, a golden reference is created, and the actual outcome is compared with the reference. Zero on the flag denotes that the design is valid. Waveform.png displays the waveform.
